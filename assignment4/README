@@ -1,0 +1,26 @@
+1. Write a Python program to find frequency of each element in an array.
+Assume the array to be
+Arr = [1, 2, 8, 2, 3, 8, 2, 2, 1, 2, 2, 5, 1, 5, 3, 5 ];
+
+
+2. Define a function in python and pass two integer variables
+to the function by pass by reference and swap these two
+numbers inside the function.
+
+
+3. Implement a python program to demonstrate function
+overloading feature supported by python.
+
+
+4. Write a python program which defines a simple class which
+has just a constructor and a destructor (with no member
+functions or data members), and create an instance of array of
+classes allocating it memory dynamically. At the end of the
+program de-allocate the memory.
+
+
+5. Write a Python program to calculate the average value of the
+numbers in a given tuple of tuples. Original Tuple: ((10, 10, 10,
+12), (30, 45, 56, 45), (81, 80, 39, 32), (1, 2, 3, 4)) Average
+value of the numbers of the said tuple of tuples: [30.5, 34.25,
+27.0, 23.25]

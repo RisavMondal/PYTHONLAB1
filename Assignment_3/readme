@@ -1,0 +1,26 @@
+1. Write a Python program to sort the elements of given list in
+Ascending &amp; Descending order.
+
+
+2. Write a Python program to find difference of two lists.
+
+
+3. Write a Python program to input, append and print the list
+elements (inputs will be given by the user).
+
+
+4. Write a Python Program to create three tuples with the
+numbers, their squares and cubes.
+
+
+5. Write a Python Program to create a function called
+ArraySort and call that function with an array of 10 elements
+to sort the numbers in the array.
+
+
+6. Write a Python Program to create a Class called
+StudentInfo, which contains StudentName,
+StudentRollNumber, StudentMarks. Create five Objects of
+this Class and Initialize these Objects with Student
+Informatio for 5 students. Find the average of the marks
+obtained by 5 students.
